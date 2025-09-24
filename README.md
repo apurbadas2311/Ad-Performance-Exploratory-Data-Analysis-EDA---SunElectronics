@@ -97,3 +97,6 @@ Metric calculations (CPV, totals, averages)
 Charts & visual dashboards
 
 Insights & recommendations documentation
+
+![Image_Alt](https://github.com/apurbadas2311/Ad-Performance-Exploratory-Data-Analysis-EDA---SunElectronics/blob/main/Ads%20Overview%20(SunElectro).png)
+
